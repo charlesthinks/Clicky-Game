@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Gaara",
+    "image": "../assets/images/gaara.png",
+    "value": 0
+  },
+  {
+    "id": 2,
+    "name": "Gai",
+    "image": "../assets/images/gai.png",
+    "value": 0
+  },
+  {
+    "id": 3,
+    "name": "Hinata",
+    "image": "../assets/images/hinata.png",
+    "value": 0
+  },
+  {
+    "id": 4,
+    "name": "Iruka",
+    "image": "../assets/images/iruka.png",
+    "value": 0
+  },
+  {
+    "id": 5,
+    "name": "Kakashi",
+    "image": "../assets/images/kakashi.png",
+    "value": 0
+  },
+  {
+    "id": 6,
+    "name": "Konohamaru",
+    "image": "../assets/images/konohamaru.png",
+    "value": 0
+  },
+  {
+    "id": 7,
+    "name": "Naruto",
+    "image": "../assets/images/naruto.png",
+    "value": 0
+  },
+  {
+    "id": 8,
+    "name": "Neji",
+    "image": "../assets/images/neji.png",
+    "value": 0
+  },
+  {
+    "id": 9,
+    "name": "Sasuke",
+    "image": "../assets/images/sasuke.png",
+    "value": 0
+  },
+  {
+    "id": 10,
+    "name": "Temari",
+    "image": "../assets/images/temari.png",
+    "value": 0
+  },
+  {
+    "id": 11,
+    "name": "Tobirama",
+    "image": "../assets/images/tobirama.png",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "name": "Zabuza",
+    "image": "../assets/images/zabuza.png",
+    "value": 0
+  }
+]
